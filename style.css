@@ -122,6 +122,9 @@ body {
   background-color: transparent;
   color: red;
 }
+.btn:active {
+    background-color: #fcfbfb;
+}
 
 .gray {
   width: 100%;
